@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"rect	svg:rect"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"at",
+				"attr	selection.attr"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"c",
+				"circle	svg:circle"
+			],
+			[
+				"t",
+				"translate	.attr('transform', 'translate(0,0)')"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"drop",
+				"dropdown_options"
+			],
+			[
+				"da",
+				"dataset"
+			],
+			[
+				"csv",
+				"csv_read"
+			],
+			[
+				"dro",
+				"dropdown_options"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"to",
+				"to_write"
+			],
+			[
+				"te",
+				"test_callback"
+			],
+			[
+				"U",
+				"USER"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"wi",
+				"withCredentials"
+			],
+			[
+				"x",
+				"xscale"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"data",
+				"dataset_svg"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cir",
+				"circles"
+			],
+			[
+				"dta",
+				"dataset_svg"
+			],
+			[
+				"sle",
+				"selectAll"
+			],
+			[
+				"new",
+				"new_number"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"for",
+				"formHeaders"
+			],
+			[
+				"leng",
+				"length"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/anonymous/Documents/Git_Repos/d3_exp"
+	],
+	"file_history":
+	[
+		"/home/anonymous/Documents/Git_Repos/d3_exp/d3/d3_exp.sublime-project",
+		"/home/anonymous/Documents/Git_Repos/d3_exp/index.html",
+		"/home/anonymous/Documents/Git_Repos/d3_exp/d3/style.css",
+		"/home/anonymous/Documents/Git_Repos/d3_exp/d3/script.js",
+		"/home/anonymous/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/anonymous/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/anonymous/Documents/Git_Repos/d3_exp/README.md",
+		"/home/anonymous/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/anonymous/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/anonymous/Documents/Git_Repos/FranckGit/index.html",
+		"/home/anonymous/Documents/Git_Repos/FranckGit/script.js",
+		"/home/anonymous/Documents/Git_Repos/FranckGit/data.csv",
+		"/home/anonymous/Documents/Git_Repos/FranckGit/style.css",
+		"/home/anonymous/Documents/Git_Repos/FranckGit/d3.v3.js",
+		"/home/anonymous/Documents/Git_Repos/FranckGit/old_tuto_script.js",
+		"/home/anonymous/Documents/DataVizProjects/D3/kobod3_v2/python/formdef.json",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3_requests/script.js",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3_requests/dropdowns.csv",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3_requests/old_tuto_script.js",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3_requests/index.html",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3_requests/d3-request.js",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3_requests/python/flask_test_v15.py",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3_requests/python/flask_py.py",
+		"/home/anonymous/Documents/DataVizProjects/D3/Tutorials/basic_tuto/variables",
+		"/home/anonymous/Documents/DataVizProjects/Technical D3 Methods & Libs notes",
+		"/home/anonymous/Documents/DataVizProjects/D3/Tutorials/basic_tuto/style.css",
+		"/home/anonymous/Documents/DataVizProjects/D3/Tutorials/basic_tuto/script.js",
+		"/home/anonymous/Documents/DataVizProjects/D3/Tutorials/basic_tuto/index.html",
+		"/home/anonymous/Documents/DataVizProjects/D3/Tutorials/basic_tuto/Read Me - Tutorials Notes",
+		"/home/anonymous/Documents/DataVizProjects/Data Viz notes",
+		"/home/anonymous/Documents/DataVizProjects/Read Me - D3 experiments setup notes",
+		"/home/anonymous/Documents/DataVizProjects/D3/Tutorials/style.css",
+		"/home/anonymous/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+		"/home/anonymous/Documents/DataVizProjects/D3/d3.v3.js",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/KOBOD3_v1.2.py",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/variables",
+		"/home/anonymous/Documents/test.py",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/index.html",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/index (copy).html",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/indexhtml_cmts",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/data.tsv",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/data.csv",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/d3.v3.js",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3_project1/index_V1.html",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/variables~",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/d3.v3.js",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/KOBOAPI_v1.0.py~",
+		"/home/anonymous/PycharmProjects/KOBOAPI/DEMO/demo_form.xlsx",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/index.html",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/index.html~",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/variables",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/style.css",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/script.js",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/KOBOAPI_v1.1.py",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3.v3.js",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/variables~",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/KOBOD3_v1.1.py",
+		"/home/anonymous/PycharmProjects/KOBOAPI/KOBOAPI_DEV/d3/d3_project1/kobo_demo.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"indent",
+			"scan_files",
+			"scan_file_in",
+			"scan_file",
+			"csv",
+			"handler",
+			"d3Dsv",
+			"user",
+			"width",
+			"date",
+			"console.log(",
+			"date",
+			";\n",
+			"scaleTime",
+			"requestTsv",
+			"request",
+			"g"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
